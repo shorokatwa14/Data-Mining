@@ -43,4 +43,4 @@ These algorithms were used to create and evaluate predictive models for diabetes
 
 The trained model is deployed using Streamlit. Below is a screenshot of the deployed model:
 
-![Streamlit App](Data-Mining/diabetes_streamlit.png)
+![Streamlit App](diabetes_streamlit.png)
