@@ -39,3 +39,8 @@ These algorithms were used to create and evaluate predictive models for diabetes
    git clone https://github.com/yourusername/Diabetes-Prediction.git
 
 
+## Model Deployment
+
+The trained model is deployed using Streamlit. Below is a screenshot of the deployed model:
+
+![Streamlit App](Data-Mining/diabetes_streamlit.png)
