@@ -37,3 +37,21 @@ These algorithms were used to create and evaluate predictive models for diabetes
 1. Clone this repository: 
    ```bash
    git clone https://github.com/yourusername/Diabetes-Prediction.git
+2. Navigate to the project directory:
+  ```bash
+      cd Diabetes-Prediction
+3. Install dependencies:
+  ```bash
+pip install -r requirements.txt
+
+4. Run the Streamlit app:
+  ```bash
+      streamlit run app.py
+
+
+## Model Deployment
+
+The trained model is deployed using Streamlit. Below is a screenshot of the deployed model:
+
+![Streamlit App](path/to/your/screenshot.png)
+
