@@ -36,7 +36,7 @@ These algorithms were used to create and evaluate predictive models for diabetes
 ## How to Run
 1. Clone this repository: 
    ```bash
-   git clone https://github.com/yourusername/Diabetes-Prediction.git
+   git clone https://github.com/shorokatwa14/Data-Mining.git
 
 
 ## Model Deployment
