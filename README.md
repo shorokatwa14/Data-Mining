@@ -35,8 +35,24 @@ These algorithms were used to create and evaluate predictive models for diabetes
 
 ## How to Run
 1. Clone this repository: 
-   ```bash
+```bash
    git clone https://github.com/shorokatwa14/Data-Mining.git
+```
+2. Navigate to the project directory:
+```bash
+
+cd Data-Mining
+```
+3. Install dependencies:
+```bash
+
+pip install -r requirements.txt
+```
+
+4. Run the Streamlit app:
+```bash
+streamlit run main.py
+```
 
 
 ## Model Deployment
